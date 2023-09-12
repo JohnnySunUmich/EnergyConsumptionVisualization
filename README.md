@@ -1,17 +1,17 @@
-# <Project Name>
+# Electricity Consumption Visualization App
 
 ## Introduction
 
-<Provide a brief introduction to your project here. Describe what the project does, who it's for, and why you created it.>
+This React-based web application provides a comprehensive visualization of electricity consumption and outage data across various regions in the USA. With a suite of interactive graphs including Pie Charts, Bar Graphs, Line Graphs, and Tree Maps, users can gain deep insights into regional electricity consumption patterns, renewable energy percentages, and outage times across different states and regions.
 
 ## Features
 
-<List down the main features of your application. Briefly describe each feature and its functionality.>
+The application is equipped with the following features, each offering a different perspective on the data:
 
-- **Feature 1**: <Description>
-- **Feature 2**: <Description>
-- **Feature 3**: <Description>
-- ...
+- **Quarterly Electricity Consumption Pie Chart**: This chart provides a visual representation of electricity consumption on a quarterly basis.
+- **Monthly Electricity Consumption Bar Graph**: Here users can delve into monthly consumption data, identifying patterns and trends over time.
+- **State-wise Electricity Consumption Line Graph**: This graph plots the electricity consumption data of selected states over a period, with an interactive feature allowing users to zoom in and out for detailed view.
+- **Region-wise Outage Time Tree Map**: This tree map gives insights into the total outage time and other relevant metrics, segregated by regions in the USA.
 
 ## Setup and Installation
 
@@ -19,11 +19,9 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository or download the ZIP file and extract it to a local directory.
 
-git clone <Link to your repository>
+git clone https://github.com/JohnnySunUmich/EnergyConsumptionVisualization.git
 
 2. Navigate to the project directory in your terminal:
-
-cd <Project Directory>
 
 3. Install the necessary npm packages:
 
@@ -37,18 +35,17 @@ npm start
 
 ## Technologies Used
 
-<List down the technologies, frameworks, and libraries used in your project.>
+The project leverages the following technologies and frameworks:
 
-- React
-- Recharts
-- ...
+- **React**: Used as the base framework to build the application.
+- **Recharts**: A composable charting library built on React components was used to create the interactive charts.
 
 ## Screenshots
 
-<Include screenshots of your application. Provide a brief description of each screenshot.>
+_Include screenshots of your application showcasing the different charts and features. Provide a brief description of each screenshot._
 
-![Screenshot 1](<Link to screenshot 1>)
-![Screenshot 2](<Link to screenshot 2>)
+![Quarterly Electricity Consumption Pie Chart](<Link to screenshot 1>)
+![Monthly Electricity Consumption Bar Graph](<Link to screenshot 2>)
 ...
 
 ## Live Demo
@@ -57,10 +54,10 @@ Check out the live demo of the application here: [Live Demo](<Link to live demo>
 
 ## Contact
 
-If you have any questions, feedback, or suggestions, feel free to reach out to me at <Your Email>.
+For any questions, feedback, or suggestions, feel free to reach out to me at sunrw@umich.edu.
 
-Thank you for checking out <Project Name>!
+Thank you for checking out the Electricity Consumption Visualization App!
 
 ---
 
-&copy; <Year> <Your Name> - All Rights Reserved
+© 2023 Johnny Sun - All Rights Reserved
