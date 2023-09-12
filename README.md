@@ -47,13 +47,20 @@ The project leverages the following technologies and frameworks:
 - **Recharts**: A composable charting library built on React components was used to create the interactive charts.
 - **Chart.js**: A versatile library utilized to construct visually appealing and interactive charts.
 
+## Deployment
+
+The application is deployed and can be accessed at the following URL:
+
+[Electricity Consumption Visualization App](http://3.16.107.65/)
+
 ## Screenshots
 
 _Include screenshots of your application showcasing the different charts and features. Provide a brief description of each screenshot._
 
-![Quarterly Electricity Consumption Pie Chart](<Link to screenshot 1>)
-![Monthly Electricity Consumption Bar Graph](<Link to screenshot 2>)
-...
+![Quarterly Electricity Consumption Pie Chart](pieChart.jpg)
+![Monthly Electricity Consumption Bar Graph](barGraph.jpg)
+![State-wise Electricity Consumption Line Graph](lineGraph.jpg)
+![Region-wise Outage Time Tree Map](treeMap.jpg)
 
 ## Contact
 
