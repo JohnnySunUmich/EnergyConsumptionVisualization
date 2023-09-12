@@ -57,10 +57,10 @@ The application is deployed and can be accessed at the following URL:
 
 _Include screenshots of your application showcasing the different charts and features. Provide a brief description of each screenshot._
 
-![Quarterly Electricity Consumption Pie Chart](pieChart.jpg)
-![Monthly Electricity Consumption Bar Graph](barGraph.jpg)
-![State-wise Electricity Consumption Line Graph](lineGraph.jpg)
-![Region-wise Outage Time Tree Map](treeMap.jpg)
+![Quarterly Electricity Consumption Pie Chart](pieChart.png)
+![Monthly Electricity Consumption Bar Graph](barGraph.png)
+![State-wise Electricity Consumption Line Graph](lineGraph.png)
+![Region-wise Outage Time Tree Map](treeMap.png)
 
 ## Contact
 
