@@ -58,7 +58,7 @@ const TreeMapComponent = () => {
       data={data}
       dataKey="Total Outage Time (hours)"
       onClick={(data) => {
-        console.log(data);
+        // console.log(data);
         alert(`${data.root.name}: ${data["Total Outage Time (hours)"]} hours`);
       }}
     >

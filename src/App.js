@@ -32,11 +32,15 @@ function App() {
     <div className="App">
       <div className="chart-section">
         <h1>Quarterly Electricity Consumption Pie Chart</h1>
-        <PieChartComponent data={pieChartData} />
+        <div className="pie-chart-container">
+          <PieChartComponent data={pieChartData} />
+        </div>
       </div>
       <div className="chart-section">
         <h1>Monthly Electricity Consumption Bar Graph</h1>
-        <BarGraphComponent data={barGraphData} />
+        <div className="bar-graph-container">
+          <BarGraphComponent data={barGraphData} width={800} />
+        </div>
       </div>
       <div className="chart-section">
         <h1>State-wise Electricity Consumption Line Graph</h1>
@@ -44,7 +48,9 @@ function App() {
       </div>
       <div className="chart-section">
         <h1>Region-wise Outage Time Tree Map</h1>
-        <TreeMapComponent data={treeMapData} />
+        <div className="tree-map-container">
+          <TreeMapComponent data={treeMapData} />
+        </div>
       </div>
     </div>
   );

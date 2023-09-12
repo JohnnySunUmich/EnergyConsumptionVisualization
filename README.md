@@ -39,6 +39,7 @@ The project leverages the following technologies and frameworks:
 
 - **React**: Used as the base framework to build the application.
 - **Recharts**: A composable charting library built on React components was used to create the interactive charts.
+- **Chart.js**: A versatile library utilized to construct visually appealing and interactive charts.
 
 ## Screenshots
 
@@ -47,10 +48,6 @@ _Include screenshots of your application showcasing the different charts and fea
 ![Quarterly Electricity Consumption Pie Chart](<Link to screenshot 1>)
 ![Monthly Electricity Consumption Bar Graph](<Link to screenshot 2>)
 ...
-
-## Live Demo
-
-Check out the live demo of the application here: [Live Demo](<Link to live demo>)
 
 ## Contact
 
