@@ -1,0 +1,58 @@
+[
+  {
+    "Quarter": "Q1",
+    "Consumption (kWh)": 25000,
+    "Population (millions)": 331,
+    "Renewable Energy %": 0.15,
+    "Total Energy Consumption (GWh)": 8275,
+    "Avg. Household Consumption (kWh)": 756,
+    "Avg. Commercial Consumption (kWh)": 1120,
+    "Avg. Industrial Consumption (kWh)": 1465,
+    "Avg. Residential Consumption (kWh)": 735,
+    "Total CO2 Emissions (metric tons)": 30000,
+    "Total Revenue from Electricity Sales (USD)": 8750000,
+    "Total Electricity Generation (GWh)": 10500
+  },
+  {
+    "Quarter": "Q2",
+    "Consumption (kWh)": 31000,
+    "Population (millions)": 332,
+    "Renewable Energy %": 0.17,
+    "Total Energy Consumption (GWh)": 10924,
+    "Avg. Household Consumption (kWh)": 879,
+    "Avg. Commercial Consumption (kWh)": 1243,
+    "Avg. Industrial Consumption (kWh)": 1632,
+    "Avg. Residential Consumption (kWh)": 849,
+    "Total CO2 Emissions (metric tons)": 35000,
+    "Total Revenue from Electricity Sales (USD)": 9880000,
+    "Total Electricity Generation (GWh)": 12500
+  },
+  {
+    "Quarter": "Q3",
+    "Consumption (kWh)": 28000,
+    "Population (millions)": 333,
+    "Renewable Energy %": 0.16,
+    "Total Energy Consumption (GWh)": 9288,
+    "Avg. Household Consumption (kWh)": 841,
+    "Avg. Commercial Consumption (kWh)": 1168,
+    "Avg. Industrial Consumption (kWh)": 1565,
+    "Avg. Residential Consumption (kWh)": 768,
+    "Total CO2 Emissions (metric tons)": 32000,
+    "Total Revenue from Electricity Sales (USD)": 8500000,
+    "Total Electricity Generation (GWh)": 11200
+  },
+  {
+    "Quarter": "Q4",
+    "Consumption (kWh)": 30000,
+    "Population (millions)": 334,
+    "Renewable Energy %": 0.18,
+    "Total Energy Consumption (GWh)": 10020,
+    "Avg. Household Consumption (kWh)": 898,
+    "Avg. Commercial Consumption (kWh)": 1310,
+    "Avg. Industrial Consumption (kWh)": 1432,
+    "Avg. Residential Consumption (kWh)": 780,
+    "Total CO2 Emissions (metric tons)": 34000,
+    "Total Revenue from Electricity Sales (USD)": 9250000,
+    "Total Electricity Generation (GWh)": 11800
+  }
+]
