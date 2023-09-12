@@ -19,17 +19,23 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository or download the ZIP file and extract it to a local directory.
 
+```
 git clone https://github.com/JohnnySunUmich/EnergyConsumptionVisualization.git
+```
 
 2. Navigate to the project directory in your terminal:
 
 3. Install the necessary npm packages:
 
+```
 npm install
+```
 
 4. Run the app:
 
+```
 npm start
+```
 
 5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to see the app running.
 
