@@ -55,8 +55,6 @@ The project leverages the following technologies and frameworks:
 
 ## Screenshots
 
-_Include screenshots of your application showcasing the different charts and features. Provide a brief description of each screenshot._
-
 ![Quarterly Electricity Consumption Pie Chart](pieChart.png)
 ![Monthly Electricity Consumption Bar Graph](barGraph.png)
 ![State-wise Electricity Consumption Line Graph](lineGraph.png)
