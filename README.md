@@ -13,6 +13,12 @@ The application is equipped with the following features, each offering a differe
 - **State-wise Electricity Consumption Line Graph**: This graph plots the electricity consumption data of selected states over a period, with an interactive feature allowing users to zoom in and out for detailed view.
 - **Region-wise Outage Time Tree Map**: This tree map gives insights into the total outage time and other relevant metrics, segregated by regions in the USA.
 
+## Deployment
+
+The application is deployed and can be accessed at the following URL:
+
+[Electricity Consumption Visualization App](http://3.16.107.65/)
+
 ## Setup and Installation
 
 Follow these steps to set up and run the project locally:
@@ -46,12 +52,6 @@ The project leverages the following technologies and frameworks:
 - **React**: Used as the base framework to build the application.
 - **Recharts**: A composable charting library built on React components was used to create the interactive charts.
 - **Chart.js**: A versatile library utilized to construct visually appealing and interactive charts.
-
-## Deployment
-
-The application is deployed and can be accessed at the following URL:
-
-[Electricity Consumption Visualization App](http://3.16.107.65/)
 
 ## Screenshots
 
